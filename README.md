@@ -1,8 +1,8 @@
 # Hi there 👋, I am Herman Tsago
 
-**AI Enthusiast**
+**Software Developer | AI Enthusiast | Web Developer**
 
-I am passionate about **Generative AI**, **Machine Learning**, **Data Analytics**, and **Chatbots**. I enjoy building scalable applications and creating user-friendly interfaces while exploring cutting-edge tools and frameworks.  
+I am passionate about **Generative AI**, **Machine Learning**, **Web Development**, and **Chatbots**. I enjoy building scalable applications and creating user-friendly interfaces while exploring cutting-edge tools and frameworks.  
 
 ---
 
@@ -27,9 +27,9 @@ I am passionate about **Generative AI**, **Machine Learning**, **Data Analytics*
 
 ### 📊 GitHub Stats
 
-![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htsago&theme=github)  
-![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=htsago&theme=github)  
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=htsago&theme=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=htsago&show_icons=true&theme=great-gatsby)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htsago&layout=compact&theme=great-gatsby)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=htsago&theme=great-gatsby)
 
 ---
 
