@@ -1,8 +1,8 @@
 # Hi there 👋, I am Herman Tsago
 
-**Software Developer | AI Enthusiast | Web Developer**
+**AI Enthusiast**
 
-I am passionate about **Generative AI**, **Machine Learning**, **Web Development**, and **Chatbots**. I enjoy building scalable applications and creating user-friendly interfaces while exploring cutting-edge tools and frameworks.  
+I am passionate about **Generative AI**, **Machine Learning**, **Data Analytics**, and **Chatbots**. I enjoy building scalable applications and creating user-friendly interfaces while exploring cutting-edge tools and frameworks.  
 
 ---
 
