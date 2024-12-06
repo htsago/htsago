@@ -16,7 +16,28 @@ Generative AI, Retrieval-Augmented Generation (RAG), Machine Learning, LangChain
 - Machine Learning and Web Development.  
 
 📫 **How to reach me**  
-📧 Email: [htsago98@gmail.com](mailto:htsago98@gmail.com)
+📧 Email: [htsago98@gmail.com](mailto:htsago98@gmail.com)  
+🌐 Portfolio: [htsago-dev.me](https://htsago-dev.me)
+
+---
+
+### 🚀 Featured Projects
+- [**LangChain-based Chatbot**](https://github.com/htsago/langchain-chatbot)  
+  AI-powered chatbot using LangChain and GPT for dynamic Q&A.  
+  *Technologies*: Python, GPT, LangChain
+
+- [**RAG Document Search**](https://github.com/htsago/rag-search)  
+  Retrieval-Augmented Generation project for semantic search in documents.  
+  *Technologies*: Python, Docker, Hugging Face
+
+---
+
+### 📜 Certifications
+- **ChatGPT Prompt Engineering for Developers** by DataCamp  
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/bc5b0bf64ad829384a1cda1544b7138f22180376?dc_referrer=https%3A%2F%2Fwww.linkedin.com%2F)
+
+- **Developing LLM Applications with LangChain** by DataCamp  
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/211818c1d777f5809b478f06e08314d43c72333e)
 
 ---
 
@@ -56,7 +77,9 @@ Generative AI, Retrieval-Augmented Generation (RAG), Machine Learning, LangChain
 
 ### 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-htsago-black?style=flat-square&logo=github)](https://github.com/htsago)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Herman%20Tsago-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/herman-tsago-373bb7236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Herman%20Tsago-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/herman-tsago-373bb7236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![Twitter](https://img.shields.io/badge/Twitter-@HermanTsago-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/HermanTsago)  
+
 ---
 
 ### 💡 Fun Fact  
