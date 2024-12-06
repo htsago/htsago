@@ -21,14 +21,14 @@ Generative AI, Retrieval-Augmented Generation (RAG), Machine Learning, LangChain
 
 ---
 
-### 🚀 Featured Projects
-- [**LangChain-based Chatbot**](https://github.com/htsago/langchain-chatbot)  
-  AI-powered chatbot using LangChain and GPT for dynamic Q&A.  
-  *Technologies*: Python, GPT, LangChain
-
-- [**RAG Document Search**](https://github.com/htsago/rag-search)  
-  Retrieval-Augmented Generation project for semantic search in documents.  
-  *Technologies*: Python, Docker, Hugging Face
+### 🚀 Featured Project
+- [**LuciaBot**](https://github.com/htsago/luciabot)  
+  LuciaBot is a highly interactive chatbot designed using Flask and generative AI technologies.  
+  It supports:  
+  - **Text and Speech Interaction**: Upload audio, transcribe it, and generate responses.  
+  - **Text-to-Speech Integration**: Delivers responses in natural-sounding audio.  
+  - **Generative AI Power**: Built on modern LLMs for contextual and accurate outputs.  
+  *Technologies*: Python, Flask, Generative AI, Text-to-Speech (TTS), Speech-to-Text (STT)  
 
 ---
 
