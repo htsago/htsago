@@ -1,8 +1,10 @@
 # Hi there 👋, I am Herman Tsago
 
-**AI Enthusiast**
+**Software Developer | AI Enthusiast | Web Developer**
 
-I am passionate about **Generative AI**, **Machine Learning**,and **Chatbots**. I enjoy building scalable applications and creating user-friendly interfaces while exploring cutting-edge tools and frameworks.  
+I am passionate about **Generative AI**, **Machine Learning**, **Web Development**, and **Chatbots**. I enjoy building scalable applications and creating user-friendly interfaces while exploring cutting-edge tools and frameworks.  
+
+![Profile Views](https://komarev.com/ghpvc/?username=htsago&color=blue&style=flat-square)
 
 ---
 
