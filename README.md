@@ -1,8 +1,8 @@
 # Hi there 👋, I am Herman Tsago
 
-**Software Developer | AI Enthusiast | Web Developer**  
+**Software Developer | AI Enthusiast | Web Developer**
 
-As someone who is passionate about technology and learning, I work on projects involving **Generative AI**, **Machine Learning**, **Web Development**, and **Chatbots**. I enjoy building scalable applications and user-friendly interfaces while exploring cutting-edge tools and frameworks.  
+I am passionate about **Generative AI**, **Machine Learning**, **Web Development**, and **Chatbots**. I enjoy building scalable applications and creating user-friendly interfaces while exploring cutting-edge tools and frameworks.  
 
 ---
 
@@ -19,6 +19,20 @@ As someone who is passionate about technology and learning, I work on projects i
 
 ---
 
+### 📜 Certifications
+- [ChatGPT Prompt Engineering for Developers](https://www.datacamp.com/completed/statement-of-accomplishment/course/bc5b0bf64ad829384a1cda1544b7138f22180376?dc_referrer=https%3A%2F%2Fwww.linkedin.com%2F)  
+- [Developing LLM Applications with LangChain](https://www.datacamp.com/completed/statement-of-accomplishment/course/211818c1d777f5809b478f06e08314d43c72333e)
+
+---
+
+### 📊 GitHub Stats
+
+![Contribution Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=htsago&theme=github)  
+![Stats Overview](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=htsago&theme=github)  
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=htsago&theme=github)
+
+---
+
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Herman%20Tsago-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/herman-tsago-373bb7236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 [![GitHub](https://img.shields.io/badge/GitHub-htsago-black?style=flat-square&logo=github)](https://github.com/htsago)  
@@ -26,15 +40,4 @@ As someone who is passionate about technology and learning, I work on projects i
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=htsago&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htsago&layout=compact&theme=default)
-
----
-
-Feel free to reach out. I am always happy to collaborate and connect!
-  
-
-
-
- 
+Feel free to reach out. I'm always happy to collaborate and connect!
