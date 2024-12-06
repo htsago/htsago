@@ -1,45 +1,86 @@
 # 👋 Hi, I’m Herman Tsago
 
-👀 **Passionate about**  
-Generative AI, RAG, Machine Learning, LangChain, and LLMs like GPT, Mistral, and LLaMA.
+👀 **I’m passionate about**  
+Generative AI, Retrieval-Augmented Generation (RAG), Machine Learning, LangChain, and working with Large Language Models (LLMs) like GPT, Mistral, and LLaMA.
 
-🌱 **Currently exploring**  
+🌱 **I’m currently exploring**  
 - Machine Learning & Data Analytics  
-- RAG techniques and LangChain  
-- Web technologies for user-friendly interfaces  
-- CI/CD tools like Docker and Travis CI.
+- Retrieval-Augmented Generation (RAG) techniques  
+- LangChain for dynamic applications  
+- Web technologies (HTML, CSS, JavaScript) for building user-friendly interfaces.  
+- Deployment and CI/CD tools like Docker and Travis CI.
 
-📫 **Contact**  
-📧 [htsago98@gmail.com](mailto:htsago98@gmail.com)  
-🌐 [htsago-dev.me](https://htsago-dev.me)  
+💞️ **I’m looking to collaborate on**  
+- AI-powered projects  
+- LLM-based innovations  
+- Machine Learning and Web Development.  
+
+📫 **How to reach me**  
+📧 Email: [htsago98@gmail.com](mailto:htsago98@gmail.com)  
+🌐 Portfolio: [htsago-dev.me](https://htsago-dev.me)
 
 ---
 
 ### 🚀 Featured Project
-[**LuciaBot**](https://github.com/htsago/luciabot)  
-Interactive chatbot with AI-powered text and speech capabilities.  
-*Tech*: Python, Flask, Generative AI, TTS, STT.
+- [**LuciaBot**](https://github.com/htsago/luciabot)  
+  LuciaBot is a highly interactive chatbot designed using Flask and generative AI technologies.  
+  It supports:  
+  - **Text and Speech Interaction**: Upload audio, transcribe it, and generate responses.  
+  - **Text-to-Speech Integration**: Delivers responses in natural-sounding audio.  
+  - **Generative AI Power**: Built on modern LLMs for contextual and accurate outputs.  
+  *Technologies*: Python, Flask, Generative AI, Text-to-Speech (TTS), Speech-to-Text (STT)  
 
 ---
 
 ### 📜 Certifications
-- [ChatGPT Prompt Engineering](https://www.datacamp.com/completed/statement-of-accomplishment/course/bc5b0bf64ad829384a1cda1544b7138f22180376?dc_referrer=https%3A%2F%2Fwww.linkedin.com%2F)  
-- [LLM Applications with LangChain](https://www.datacamp.com/completed/statement-of-accomplishment/course/211818c1d777f5809b478f06e08314d43c72333e)
+- **ChatGPT Prompt Engineering for Developers** by DataCamp  
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/bc5b0bf64ad829384a1cda1544b7138f22180376?dc_referrer=https%3A%2F%2Fwww.linkedin.com%2F)
+
+- **Developing LLM Applications with LangChain** by DataCamp  
+  [View Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/course/211818c1d777f5809b478f06e08314d43c72333e)
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=htsago&show_icons=true&theme=great-gatsby)  
+### 📊 My GitHub Stats
+
+![Herman's GitHub stats](https://github-readme-stats.vercel.app/api?username=htsago&show_icons=true&theme=great-gatsby)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=htsago&layout=compact&theme=great-gatsby)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=htsago&theme=great-gatsby)
 
 ---
 
 ### 🛠️ Tools & Technologies
-Python, Java, PHP, HTML, CSS, JavaScript, Docker, Travis CI, GPT, LangChain, Flask.
+**Core Skills**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**Web Development**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI & LLMs**  
+![GPT](https://img.shields.io/badge/-GPT-ff9900?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-0A66C2?style=flat-square&logo=chainlink&logoColor=white)
+![Mistral](https://img.shields.io/badge/-Mistral-blue?style=flat-square&logo=mistral&logoColor=white)
+![LLaMA](https://img.shields.io/badge/-LLaMA-663399?style=flat-square&logo=llama&logoColor=white)
+
+**Deployment & CI/CD**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
 ### 🔗 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-htsago-black?style=flat-square&logo=github)](https://github.com/htsago)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Herman%20Tsago-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/herman-tsago-373bb7236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-[![Twitter](https://img.shields.io/badge/Twitter-@HermanTsago-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/HermanTsago)
+[![Twitter](https://img.shields.io/badge/Twitter-@HermanTsago-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/HermanTsago)  
+
+---
+
+### 💡 Fun Fact  
+When I'm not building LLM-powered applications, you can find me exploring ways to make interfaces more user-friendly using HTML, CSS, and JavaScript!
